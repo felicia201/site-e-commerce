@@ -1,0 +1,28 @@
+
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+/* Image */
+img {
+    max-width: 400px;
+    margin-bottom: 10px;
+}
+
+/* Lien */
+a {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+/* Autres styles spécifiques */
+

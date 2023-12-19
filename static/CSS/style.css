@@ -1,0 +1,58 @@
+/* Styles généraux */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F5EFE0;
+}
+
+/* Titre */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #704E2E;
+}
+
+/* Liens */
+a {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* Formulaire d'inscription */
+form {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #C9A769;
+    border-radius: 5px;
+}
+
+form p {
+    margin-bottom: 10px;
+}
+
+form label {
+    font-weight: bold;
+    color: #000000;
+}
+
+form input[type="text"],
+form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+form button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Autres styles spécifiques */
+
