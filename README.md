@@ -1,6 +1,6 @@
 README - Création d'une Boutique E-commerce avec Django
 
-Bienvenue dans ce guide qui vous accompagnera à travers la création d'une boutique en ligne en utilisant Python et le framework Django. Ce tutoriel vous guidera étape par étape, depuis la création du projet jusqu'à la mise en place des fonctionnalités essentielles telles que la gestion des produits, le panier d'achats, et les vues pour la connexion et la création d'utilisateurs.
+Bienvenue dans ce guide qui vous accompagnera à travers la création d'une boutique en ligne en utilisant Python et le framework Django. Ce readme vous guidera étape par étape, depuis la création du projet jusqu'à la mise en place des fonctionnalités essentielles telles que la gestion des produits, le panier d'achats, et les vues pour la connexion et la création d'utilisateurs. C'est que la partie backend .
 
 Prérequis
 
